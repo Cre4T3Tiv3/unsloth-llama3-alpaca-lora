@@ -21,10 +21,6 @@ __pycache__/
 *.pyd
 *.so
 
-# Jupyter and Colab Notebooks
-.ipynb_checkpoints/
-*.ipynb~ # autosave
-
 # Dataset caches and temporary artifacts
 *.cache/
 .cache/
@@ -63,7 +59,7 @@ Thumbs.db
 # VSCode & Jupyter
 .vscode/
 .ipynb_checkpoints/
-*.ipynb
+*.ipynb~
 
 # Build files
 *.egg-info/
