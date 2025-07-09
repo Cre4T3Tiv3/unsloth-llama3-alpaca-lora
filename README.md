@@ -10,7 +10,7 @@
   <a href="https://huggingface.co/Cre4T3Tiv3/unsloth-llama3-alpaca-lora">
     <img src="https://img.shields.io/badge/HF_Model-Available-blue?logo=huggingface" alt="HF Model">
   </a>
-  <a href="https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-demo">
+  <a href="https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-alpaca-demo">
     <img src="https://img.shields.io/badge/Live_Demo-HF_Space-orange?logo=gradio" alt="HF Demo Space">
   </a>
   <a href="https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/stargazers">
@@ -139,14 +139,14 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 
 🖥 Try the model live via Hugging Face Spaces:
 
-> [Launch Demo → unsloth-llama3-demo](https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-demo)
+> [Launch Demo → unsloth-llama3-alpaca-demo](https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-alpaca-demo)
 
 ---
 
 ## Links
 
 * 📦 [Model Hub](https://huggingface.co/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)
-* 🧪 [Demo Space](https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-demo)
+* 🧪 [Demo Space](https://huggingface.co/spaces/Cre4T3Tiv3/unsloth-llama3-alpaca-demo)
 * 🧰 [Source Code](https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora)
 * 💼 [ByteStack Labs](https://bytestacklabs.com)
 
