@@ -6,7 +6,7 @@ or falls back to interactive login if not found. It supports loading from a `.en
 Typical usage:
     $ python scripts/hf_login.py
     OR
-    $ HUGGINGFACE_TOKEN=hf_xxx make login
+    $ make login
 """
 
 import os
