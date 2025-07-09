@@ -9,6 +9,7 @@ This script:
 
 Typical usage:
     $ python scripts/eval_adapter.py
+    OR
     $ make eval
 """
 
