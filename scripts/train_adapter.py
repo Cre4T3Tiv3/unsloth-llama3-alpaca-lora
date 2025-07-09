@@ -7,6 +7,8 @@ The training is configured to save LoRA adapter weights to `./adapter` using Hug
 
 Run this script with:
     $ python scripts/train_adapter.py
+    OR
+    $ make train
 """
 
 from datasets import load_dataset
