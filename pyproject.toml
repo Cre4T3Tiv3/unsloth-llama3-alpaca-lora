@@ -1,0 +1,24 @@
+[project]
+name = "unsloth-llama3-alpaca-lora"
+version = "0.1.0"
+description = "LoRA Adapter for LLaMA 3 8B using Unsloth and Alpaca"
+authors = [{ name = "Jesse Moses", email = "jlmoses@outlook.com" }]
+license = "Apache-2.0"
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "transformers>=4.38.0",
+    "peft>=0.10.0",
+    "accelerate>=0.27.0",
+    "bitsandbytes>=0.42.0",
+    "unsloth>=2025.6.12",
+    "torch>=2.1",
+    "datasets>=2.18.0",
+    "python-dotenv>=1.0.0",
+    "numpy>=1.24"
+]
+
+[tool.uv]
+resolution = "highest"
+index-url = "https://pypi.org/simple"

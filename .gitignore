@@ -1,0 +1,83 @@
+# ByteStack Labs – AI Training Repo .gitignore
+# --------------------------------------------
+
+# Hugging Face CLI auth
+.huggingface/
+
+# Virtual environment folders
+.venv/
+env/
+venv/
+
+# uv specific cache
+.uv/
+
+# Python cache
+unsloth_compiled_cache/
+*.pyc
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter and Colab Notebooks
+.ipynb_checkpoints/
+*.ipynb~ # autosave
+
+# Dataset caches and temporary artifacts
+*.cache/
+.cache/
+datasets_cache/
+hf_cache/
+*.tmp
+*.log
+*.pth
+*.pt
+
+# Model output dirs
+adapter/
+checkpoints/
+runs/
+outputs/
+wandb/
+lightning_logs/
+eval_results.json
+
+# Hugging Face artifacts
+hub/
+tokenizer_config.json
+tokenizer.json
+*.safetensors
+*.ckpt
+*.bin
+
+# Colab auth/token files
+colab_token.json
+
+# OS/system files
+.DS_Store
+Thumbs.db
+.idea/
+
+# VSCode & Jupyter
+.vscode/
+.ipynb_checkpoints/
+*.ipynb
+
+# Build files
+*.egg-info/
+dist/
+build/
+
+# Test files and reports
+.pytest_cache/
+.coverage
+htmlcov/
+*.pytest_cache
+
+# Personal or secret credentials
+*.env
+.env.*
+*.secret
+hf_token.txt
