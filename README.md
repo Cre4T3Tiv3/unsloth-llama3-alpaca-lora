@@ -162,9 +162,9 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 ---
 
 ## Maintainer
+---
 
-**[@Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)**
-Built with ❤️ by [ByteStack Labs](https://bytestacklabs.com)
+**Built with ❤️ by [@Cre4T3Tiv3](https://github.com/Cre4T3Tiv3) at [ByteStack Labs](https://bytestacklabs.com)**
 
 ---
 
