@@ -62,8 +62,8 @@ This adapter is purpose-built for:
 - Single-run fine-tune only
 - Not optimized for >2K context
 - 4-bit quantization may reduce fidelity
-- Hallucinations possible — **not** production-ready for critical workflows
-- Previously hallucinated QLoRA terms now corrected — tested via eval script
+- Hallucinations possible; **not** production-ready for critical workflows
+- Previously hallucinated QLoRA terms now corrected; tested via eval script
 - Still not production-grade for factual QA or critical domains
 
 ---
