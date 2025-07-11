@@ -162,7 +162,6 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 ---
 
 ## Maintainer
----
 
 **Built with ❤️ by [@Cre4T3Tiv3](https://github.com/Cre4T3Tiv3) at [ByteStack Labs](https://bytestacklabs.com)**
 
