@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora" target="_blank">
-    <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/main/docs/assets/unsloth_llama3_alpaca_lora_v0.1.0.png" alt="Unsloth LLaMA 3 Alpaca LoRA" width="640"/>
+    <img src="https://raw.githubusercontent.com/Cre4T3Tiv3/unsloth-llama3-alpaca-lora/main/docs/assets/unsloth_llama3_alpaca_lora_v0.1.0_latest.png" alt="Unsloth LLaMA 3 Alpaca LoRA" width="640"/>
   </a>
 </p>
 
